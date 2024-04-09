@@ -1,10 +1,4 @@
-/*
-* File          : f7.cpp
-* Project       : SENG1000 Focused #7
-* Programmer    : Hetvi Kaswala
-* First Version : 2024-03-21
-* Description   : This program will create a text file and a binary file.
-*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
